@@ -1,6 +1,6 @@
-# Benchmark dataset for entity resolution
+# Benchmarked dataset for entity resolution
 
-## This repository help to create dataset for entity resolution. 
+## This repository helps to create dataset for entity resolution. 
 
 ```java
     root
